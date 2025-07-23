@@ -25,6 +25,6 @@ Sein Win Htut
 6. Dashboard (All Time)
 <img width="3420" height="1910" alt="image" src="https://github.com/user-attachments/assets/4878501b-7c50-40e2-b9c3-f71d231ddd08" />
 
-7. Journal (Add category)
+7. Journal (Add new category)
 <img width="3420" height="1910" alt="image" src="https://github.com/user-attachments/assets/ba68ddd5-811f-4937-a127-3c740bf2e964" />
 <img width="3420" height="1910" alt="image" src="https://github.com/user-attachments/assets/bdabd44e-813e-459c-b7a6-6caa2db328e1" />
