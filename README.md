@@ -4,7 +4,7 @@ This is a simple React-based expense tracker app.
 # Group Member
 Sein Win Htut
 
-# GitHub repository URL
+# GitHub page URL
 https://seinwinhtutau.github.io/web-project1/spending-tracker/
 
 # Features
